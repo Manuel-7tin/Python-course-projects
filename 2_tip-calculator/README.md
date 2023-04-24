@@ -11,7 +11,7 @@ Or use this link and click the play button: https://replit.com/@Emmanuel1707/Tip
 
 The program will prompt the user to provide three inputs:
 
-        - The total bill
+	- The total bill
 	- The tip you would like to give
 	- The number f people splitting the bill
 
@@ -21,7 +21,7 @@ Based on these inputs, the program will determine the amount each person has to 
 
 This project allowed me to practice several essential Python programming concepts, including:
 
-		**Primitive data types**, **Type checking and Conversion**, **Mathematical operations and Number manipulation**, **Fstrings**.
+**Primitive data types**, **Type checking and Conversion**, **Mathematical operations and Number manipulation**, **Fstrings**.
 
 **Future Improvements**
 
