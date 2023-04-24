@@ -21,7 +21,10 @@ Based on these inputs, the program will determine the amount each person has to 
 
 This project allowed me to practice several essential Python programming concepts, including:
 
-**Primitive data types**, **Type checking and Conversion**, **Mathematical operations and Number manipulation**, **Fstrings**.
+	-Primitive data types,
+	-Type checking and Conversion, 
+	-Mathematical operations and Number manipulation, 
+	-Fstrings.
 
 **Future Improvements**
 
