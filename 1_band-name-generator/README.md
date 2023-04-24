@@ -2,7 +2,7 @@
 
 Welcome to the Band Name Generator, a Python program that generates unique and creative names for your band based on the input provided by the user. This project is part of my Python course, and it is designed to showcase my skills and knowledge of Python programming.
 This directory contains the main.py file where the code is writing, a venv directory that contains the environment setting and this readme fle.
-
+ 
 **How to use the Band Name Generator**
 
 To use the Band Name Generator, simply download the source code and run the main.py file in the band-name-generator folder in your Python environment.
