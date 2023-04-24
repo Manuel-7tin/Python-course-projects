@@ -12,20 +12,19 @@ Or use this link and click the play button: https://replit.com/@Emmanuel1707/Tip
 The program will prompt the user to provide three inputs:
 
         - The total bill
-	        - The tip you would like to give
-		- The number f people splitting the bill
+	- The tip you would like to give
+	- The number f people splitting the bill
 
-		Based on these inputs, the program will determine the amount each person has to pay.
+Based on these inputs, the program will determine the amount each person has to pay.
 
-		**Skills and Concepts Learned**
+**Skills and Concepts Learned**
 
-		This project allowed me to practice several essential Python programming concepts, including:
+This project allowed me to practice several essential Python programming concepts, including:
 
 		**Primitive data types**, **Type checking and Conversion**, **Mathematical operations and Number manipulation**, **Fstrings**.
 
-		**Future Improvements**
+**Future Improvements**
 
-		While this program is functional, there is always room for improvement.
+While this program is functional, there is always room for improvement.
 
-		Thank you for checking out my Tip Calculator project, and I hope you find it as fun 
-		and entertaining as I did while creating it!
+Thank you for checking out my Tip Calculator project, and I hope you find it as fun and entertaining as I did while creating it!
