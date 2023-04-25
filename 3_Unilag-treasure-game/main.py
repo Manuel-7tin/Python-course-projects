@@ -2,7 +2,7 @@
 print("Welcome to the University of Lagos")
 # Get user's mode of transportation
 choice = input('You are at the main gate. What do you want to do? Type "trek" or "cab"\n').lower()
-# Get user's decisions and decide their fate
+# Get  user's decisions and decide their fate
 if choice == "trek":
     action = input(
         'You come to a cluster of lecture halls. There is a fight scene outside. Type "ignore" to enter a hall. Type "watch" to watch the fight.\n').lower()
