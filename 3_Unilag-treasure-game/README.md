@@ -9,7 +9,7 @@ This directory contains the main.py file where the code is writing, a venv direc
 
 To play the treasure game, simply download the source code and run the main.py file 
 in the tip-calculator folder in your Python environment.
-Or use this link and click the play button: https://replit.com/@Emmanuel1707/Tip-calculator?v=1
+Or use this link and click the play button: https://replit.com/@Emmanuel1707/Me-First-Game-Unlag-Ver?v=1 .
 
 The game will prompt the user to provide several inputs:
 
