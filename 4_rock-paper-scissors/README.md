@@ -9,13 +9,12 @@ This directory contains the main.py file where the code is writing, a venv direc
 
 **How to play the Rock Paper Scissors**
 
-To play the game, simply download the source code and run the main.py file 
-in the tip-calculator folder in your Python environment.
+To play the game, simply download the source code and run the main.py file in your Python environment.
 Or use this link and click the play button: https://replit.com/@Emmanuel1707/rock-paper-scissors-start?v=1.
 
 The game will prompt the user to provide an input:
 
-	- The choice to pck rock, paper or scissors
+	- The choice to pick rock, paper or scissors
 
 With every round, you'll feel the adrenaline pumping through your veins as you try to predict your opponent's next move. Will you go for the safe option or take a risky move to gain an advantage?
 
@@ -25,7 +24,7 @@ This project allowed me to practice several essential Python programming concept
 
 	-Random module,
 	-Lists,
-	-zindex Errors,
+	-Index Errors,
 	-Nested Lists.
 
 **Future Improvements**
