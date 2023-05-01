@@ -29,6 +29,6 @@ This project allowed me to practice several essential Python programming concept
 
 **Future Improvements**
 
-While this program is functional, there is always room for improvement.
+While this  program is functional, there is always room for improvement.
 
 Thank you for checking out my Rock paper scissors game, and I hope you find it as fun and entertaining as I did while creating it!
