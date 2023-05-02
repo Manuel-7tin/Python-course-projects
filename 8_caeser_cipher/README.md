@@ -39,4 +39,4 @@ This project allowed me to practice several essential Python programming concept
 
 While this program is functional, there is always room for improvement.
 
-Thank you for checking out my Rock paper scissors game, and I hope you find it as fun and entertaining as I did while creating it!
+Thank you for checking out my Caeser cipher program, and I hope you find it as fun and entertaining as I did while creating it!
